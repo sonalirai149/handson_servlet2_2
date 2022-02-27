@@ -1,0 +1,14 @@
+<web-app>  
+  
+<servlet>  
+<servlet-name>swap</servlet-name>  
+<servlet-class>com.handsone.RegistrationServlet</servlet-class>  
+</servlet>  
+  
+<servlet-mapping>  
+<servlet-name>swap</servlet-name>  
+<url-pattern>/Login</url-pattern>  
+</servlet-mapping>  
+  
+
+</web-app>  
